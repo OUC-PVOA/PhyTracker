@@ -1,0 +1,184 @@
+albumentations==1.4.2
+anyio==4.1.0
+argon2-cffi==23.1.0
+argon2-cffi-bindings==21.2.0
+arrow==1.3.0
+asttokens==2.4.1
+async-lru==2.0.4
+attrs==23.1.0
+Babel==2.13.1
+backcall==0.2.0
+beautifulsoup4==4.12.2
+biopython==1.81
+bleach==6.1.0
+Brotli @ file:///tmp/abs_ecyw11_7ze/croots/recipe/brotli-split_1659616059936/work
+cachetools==5.3.2
+certifi @ file:///croot/certifi_1700501669400/work/certifi
+cffi @ file:///croot/cffi_1700254295673/work
+charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
+coloredlogs==15.0.1
+comm==0.2.0
+contourpy==1.1.1
+cryptography @ file:///croot/cryptography_1694444244250/work
+cycler==0.12.1
+Cython==0.29.26
+cython-bbox==0.1.5
+# Editable install with no version control (DCNv2==0.1)
+-e /root/yuyang/code/TraDeS-master/src/lib/model/networks/DCNv2
+debugpy==1.8.0
+decorator==5.1.1
+defusedxml==0.7.1
+descartes==1.1.0
+easydict==1.9
+einops==0.7.0
+exceptiongroup==1.2.0
+executing==2.0.1
+fastjsonschema==2.19.0
+filelock @ file:///croot/filelock_1700591183607/work
+fire==0.5.0
+flake8==6.1.0
+flake8-import-order==0.18.2
+flatbuffers==24.3.7
+fonttools==4.46.0
+fqdn==1.5.1
+fsspec==2023.4.0
+gmpy2 @ file:///tmp/build/80754af9/gmpy2_1645455532332/work
+grad-cam==1.5.0
+humanfriendly==10.0
+idna @ file:///croot/idna_1666125576474/work
+imageio==2.34.0
+importlib-metadata==7.0.0
+importlib-resources==6.1.1
+iniconfig==2.0.0
+ipykernel==6.27.1
+ipython==8.12.3
+ipywidgets==8.1.1
+isoduration==20.11.0
+jedi==0.19.1
+Jinja2 @ file:///croot/jinja2_1666908132255/work
+joblib==1.3.2
+json5==0.9.14
+jsonpointer==2.4
+jsonschema==4.20.0
+jsonschema-specifications==2023.11.2
+jupyter==1.0.0
+jupyter-console==6.6.3
+jupyter-events==0.9.0
+jupyter-lsp==2.2.1
+jupyter_client==8.6.0
+jupyter_core==5.5.0
+jupyter_server==2.12.1
+jupyter_server_terminals==0.4.4
+jupyterlab==4.0.9
+jupyterlab-widgets==3.0.9
+jupyterlab_pygments==0.3.0
+jupyterlab_server==2.25.2
+kiwisolver==1.4.5
+lap==0.4.0
+lazy_loader==0.3
+llvmlite==0.41.1
+MarkupSafe @ file:///opt/conda/conda-bld/markupsafe_1654597864307/work
+matplotlib==3.5.1
+matplotlib-inline==0.1.6
+mccabe==0.7.0
+mistune==3.0.2
+mkl-fft @ file:///croot/mkl_fft_1695058164594/work
+mkl-random @ file:///croot/mkl_random_1695059800811/work
+mkl-service==2.4.0
+mmtf-python==1.1.3
+motmetrics==1.4.0
+mpmath @ file:///croot/mpmath_1690848262763/work
+msgpack==1.0.7
+nbclient==0.9.0
+nbconvert==7.12.0
+nbformat==5.9.2
+nest-asyncio==1.5.8
+networkx @ file:///croot/networkx_1690561992265/work
+ninja==1.11.1.1
+notebook==7.0.6
+notebook_shim==0.2.3
+numba==0.58.1
+numpy @ file:///work/mkl/numpy_and_numpy_base_1682953417311/work
+nuscenes-devkit==1.1.2
+opencv-python==4.5.5.62
+opencv-python-headless==4.9.0.80
+overrides==7.4.0
+packaging==23.2
+pandas==2.0.3
+pandocfilters==1.5.0
+parso==0.8.3
+pexpect==4.9.0
+pickleshare==0.7.5
+Pillow @ file:///croot/pillow_1696580024257/work
+pkgutil_resolve_name==1.3.10
+platformdirs==4.1.0
+pluggy==1.3.0
+progres==0.2.0
+progress==1.6
+prometheus-client==0.19.0
+prompt-toolkit==3.0.41
+psutil==5.9.6
+ptyprocess==0.7.0
+pure-eval==0.2.2
+py-cpuinfo==9.0.0
+pycocotools==2.0.7
+pycodestyle==2.11.1
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+pyflakes==3.1.0
+Pygments==2.17.2
+pyOpenSSL @ file:///croot/pyopenssl_1690223430423/work
+pyparsing==3.1.1
+pyquaternion==0.9.9
+PySocks @ file:///tmp/build/80754af9/pysocks_1605305779399/work
+pytest==7.4.3
+pytest-benchmark==4.0.0
+python-dateutil==2.8.2
+python-json-logger==2.0.7
+pytz==2023.3.post1
+PyWavelets==1.4.1
+PyYAML==6.0
+pyzmq==25.1.2
+qtconsole==5.5.1
+QtPy==2.4.1
+referencing==0.32.0
+requests @ file:///croot/requests_1690400202158/work
+rfc3339-validator==0.1.4
+rfc3986-validator==0.1.1
+rpds-py==0.13.2
+scikit-image==0.21.0
+scikit-learn==1.3.2
+scipy==1.10.1
+Send2Trash==1.8.2
+shapely==2.0.2
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+sniffio==1.3.0
+soupsieve==2.5
+stack-data==0.6.3
+sympy @ file:///croot/sympy_1701397643339/work
+termcolor==2.4.0
+terminado==0.18.0
+threadpoolctl==3.2.0
+tifffile==2023.7.10
+tinycss2==1.2.1
+tomli==2.0.1
+torch==2.0.1
+torchaudio==2.0.2
+torchvision==0.15.2
+tornado==6.4
+tqdm==4.66.1
+trackeval @ file:///root/yuyang/code/TrackEval
+traitlets==5.14.0
+triton==2.0.0
+ttach==0.0.3
+types-python-dateutil==2.8.19.14
+typing_extensions==4.10.0
+tzdata==2023.3
+uri-template==1.3.0
+urllib3 @ file:///croot/urllib3_1698257533958/work
+wcwidth==0.2.12
+webcolors==1.13
+webencodings==0.5.1
+websocket-client==1.7.0
+widgetsnbextension==4.0.9
+xmltodict==0.13.0
+zipp==3.17.0
