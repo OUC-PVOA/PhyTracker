@@ -3,10 +3,14 @@
 
 ## PhyTracker: An Online Tracker for Phytoplankton
 
-Yang Yu, Qingxuan lv, [Yuezun Li*](https://yuezunli.github.io/), Zhiqiang Wei, Junyu Dong*
+Yang Yu, Qingxuan lv, [Yuezun Li](https://yuezunli.github.io/), Zhiqiang Wei, Junyu Dong
+
 Yuezun Li and Junyu Dong are corresponding authors
+
 Ocean University of China, China
+
 IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2024
+
 *[arXiv 2407.00352](https://arxiv.org/abs/2407.00352)*
 
 ### Contents
