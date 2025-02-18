@@ -27,13 +27,13 @@ IEEE Transactions on Circuits and Systems for Video Technology(TCSVT), 2024
 
 ### Abstract
 Phytoplankton, a crucial component of aquatic ecosystems, requires efficient monitoring to understand marine ecological processes and environmental conditions. Traditional phytoplankton monitoring methods, relying on non-in situ observations, are time-consuming and resource-intensive, limiting timely analysis. To address these limitations, we introduce PhyTracker, an intelligent in situ tracking framework designed for automatic tracking of phytoplankton. PhyTracker overcomes significant challenges unique to phytoplankton monitoring, such as constrained mobility within water flow, inconspicuous appearance, and the presence of impurities. Our method incorporates three innovative modules: a Texture-enhanced Feature Extraction (TFE) module, an Attention-enhanced Temporal Association (ATA) module, and a Flow-agnostic Movement Refinement (FMR) module. These modules enhance feature capture, differentiate between phytoplankton and impurities, and refine movement characteristics, respectively. Extensive experiments on the PMOT dataset validate the superiority of PhyTracker in phytoplankton tracking, and additional tests on the MOT dataset demonstrate its general applicability, outperforming conventional tracking methods. This work highlights key differences between phytoplankton and traditional objects, offering an effective solution for phytoplankton monitoring.
-<p align="center"><img src="assets/example.jpg" width="400"/></p>
+<p align="center"><img src="assets/example.jpg" width="600"/></p>
 
 
 
 ### Overall structure diagram
 
-<p align="center"><img src="assets/overview.jpg" width="400"/></p>
+<p align="center"><img src="assets/overview.jpg" width="800"/></p>
 
 
 
@@ -113,8 +113,8 @@ The model weights are placed in the link: [[PyTracker2024(code:wnti)]](https://p
 python demo.py tracking --dataset PMOT2023 --load_model ../models/PyTracker.pth --demo ../videos --pre_hm --ltrb_amodal --pre_thresh 0.5 --track_thresh 0.4 --inference --clip_len 3 --trades --save_video --resize_video --input_h 640 --input_w 960
 ```
 
-<p align="center"><img src="assets/compare1.jpg" width="400"/></p>
-<p align="center"><img src="assets/compare2.jpg" width="400"/></p>
+<p align="center"><img src="assets/compare1.jpg" width="700"/></p>
+<p align="center"><img src="assets/compare2.jpg" width="700"/></p>
 
 
 
